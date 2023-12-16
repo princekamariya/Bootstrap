@@ -1,0 +1,39 @@
+.product-div>select {
+    width: 150px;
+}
+
+.module-div>select {
+    width: 320px;
+}
+
+.version-div>select {
+    width: 150px;
+}
+
+.support-by-div>select {
+    width: 150px;
+}
+
+.priority-div>select {
+    width: 180px;
+}
+
+.assign-to-div>select {
+    width: 150px;
+}
+
+.agent-no-div>select {
+    width: 150px;
+}
+
+.ps-type-div>select {
+    width: 150px;
+}
+
+.called-by-div>select {
+    width: 8em;
+}
+
+.status-div>select {
+    width: 7em;
+}
